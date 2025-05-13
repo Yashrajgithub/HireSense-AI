@@ -35,7 +35,7 @@
 
 ### 🔹 Steps  
 ```bash
-git clone https://github.com/yourusername/HireSense-AI.git  
+git clone https://github.com/Yashrajgithub/HireSense-AI.git
 cd HireSense-AI  
 pip install -r requirements.txt  
 streamlit run app.py  
