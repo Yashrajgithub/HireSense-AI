@@ -1,5 +1,8 @@
 # 🤖 HireSense AI – Intelligent Resume Screening & Ranking System
 
+## 🌐 Live Demo  
+You can check out the live demo of the system here: [Live Demo - HireSense AI](https://hiresense-ai-qesi8wq.streamlit.app/)
+
 ## 📌 Overview  
 **HireSense AI** is an intelligent recruitment tool that uses **AI and NLP** to automatically screen, evaluate, and rank resumes based on job-specific requirements. It helps recruiters identify the most suitable candidates with minimal effort.
 
