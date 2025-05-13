@@ -1,6 +1,6 @@
 streamlit==1.20.0
 pandas==1.5.3
-pypdf==3.0.0
+pypdf==3.13.0  
 scikit-learn==1.2.0
 hashlib==3.0.0
 uuid==1.30
